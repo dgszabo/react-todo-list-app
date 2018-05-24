@@ -20,6 +20,7 @@ npm start
 ```
 
 This will launch the application locally at https://localhost:3000.
+
 -----------
 
 Have fun!
