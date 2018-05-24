@@ -9,7 +9,7 @@ Fork and clone the repo, or download the application to your local machine and u
 ```
 npm install
 ```
-(For the command to work you need Node Package Manager or npm [https://www.npmjs.com/get-npm])
+(For the command to work you need Node Package Manager or npm: https://www.npmjs.com/get-npm)
 
 Running
 -----------
