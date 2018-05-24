@@ -31,7 +31,7 @@
   width: 600px;
 }
 
-li, li a {
+li, li a, li a:hover {
   transition: all .5s linear;
   color: black;
 }

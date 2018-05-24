@@ -95,7 +95,7 @@ openEditor(i) {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title m-2">Welcome to Todo List</h1>
+          <h1 className="App-title m-2">Welcome to React Todo List (now with Redux)!</h1>
           <div className="nav-btns">
             <Link to="/todos" className="btn btn-secondary all-todos-btn">all todos</Link>
             <Link to="/todos/new" className="btn btn-secondary new-todo-btn">new todo</Link>
